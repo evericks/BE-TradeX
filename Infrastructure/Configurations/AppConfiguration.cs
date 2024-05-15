@@ -19,7 +19,7 @@ namespace Infrastructure.Configurations
                 services.AddSwaggerGen(c =>
             {
                 c.EnableAnnotations();
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "ASP.Net 8.0 - InvoiceX", Description = "APIs Service", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "ASP.Net 8.0 - TradeX", Description = "APIs Service", Version = "v1" });
                 c.DescribeAllParametersInCamelCase();
                 c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
                 {

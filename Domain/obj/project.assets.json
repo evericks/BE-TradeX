@@ -4110,11 +4110,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Janglee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Janglee\\AppData\\Roaming\\NuGet\\NuGet.Config",

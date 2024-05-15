@@ -6610,11 +6610,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Janglee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Janglee\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6632,11 +6632,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Application\\Application.csproj"
+            "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Application\\Application.csproj"
             },
-            "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Data\\Data.csproj"
+            "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Data\\Data.csproj"
             }
           }
         }
