@@ -1,77 +1,129 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\",
+  "WorkspaceRootPath": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDDC22B2-E423-4899-8AD9-FF98421A1552}|Infrastructure\\Infrastructure.csproj|c:\\users\\janglee\\desktop\\be-tradex - copy\\infrastructure\\configurations\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDDC22B2-E423-4899-8AD9-FF98421A1552}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configurations\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAA8FCA6-5E54-445F-9275-FF850701F93D}|Presentation\\Presentation.csproj|c:\\users\\janglee\\desktop\\be-tradex\\presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA8FCA6-5E54-445F-9275-FF850701F93D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAA8FCA6-5E54-445F-9275-FF850701F93D}|Presentation\\Presentation.csproj|c:\\users\\janglee\\desktop\\be-tradex - copy\\presentation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAA8FCA6-5E54-445F-9275-FF850701F93D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDDC22B2-E423-4899-8AD9-FF98421A1552}|Infrastructure\\Infrastructure.csproj|c:\\users\\janglee\\desktop\\be-tradex\\infrastructure\\configurations\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDC22B2-E423-4899-8AD9-FF98421A1552}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configurations\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAA8FCA6-5E54-445F-9275-FF850701F93D}|Presentation\\Presentation.csproj|c:\\users\\janglee\\desktop\\be-tradex - copy\\presentation\\presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{BAA8FCA6-5E54-445F-9275-FF850701F93D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\presentation.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{5CA8DC57-2D2D-49E3-894E-3EC07C1D770A}|Domain\\Domain.csproj|c:\\users\\janglee\\desktop\\be-tradex\\domain\\models\\views\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA8DC57-2D2D-49E3-894E-3EC07C1D770A}|Domain\\Domain.csproj|solutionrelative:domain\\models\\views\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAA8FCA6-5E54-445F-9275-FF850701F93D}|Presentation\\Presentation.csproj|c:\\users\\janglee\\desktop\\be-tradex - copy\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5CA8DC57-2D2D-49E3-894E-3EC07C1D770A}|Domain\\Domain.csproj|c:\\users\\janglee\\desktop\\be-tradex\\domain\\models\\authentications\\authviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA8DC57-2D2D-49E3-894E-3EC07C1D770A}|Domain\\Domain.csproj|solutionrelative:domain\\models\\authentications\\authviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA8FCA6-5E54-445F-9275-FF850701F93D}|Presentation\\Presentation.csproj|c:\\users\\janglee\\desktop\\be-tradex\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAA8FCA6-5E54-445F-9275-FF850701F93D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|c:\\users\\janglee\\desktop\\be-tradex - copy\\application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|solutionrelative:application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDDC22B2-E423-4899-8AD9-FF98421A1552}|Infrastructure\\Infrastructure.csproj|c:\\users\\janglee\\desktop\\be-tradex\\infrastructure\\configurations\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDC22B2-E423-4899-8AD9-FF98421A1552}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configurations\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|c:\\users\\janglee\\desktop\\be-tradex - copy\\application\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAA8FCA6-5E54-445F-9275-FF850701F93D}|Presentation\\Presentation.csproj|c:\\users\\janglee\\desktop\\be-tradex\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BAA8FCA6-5E54-445F-9275-FF850701F93D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|c:\\users\\janglee\\desktop\\be-tradex - copy\\application\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|solutionrelative:application\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|c:\\users\\janglee\\desktop\\be-tradex - copy\\application\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|c:\\users\\janglee\\desktop\\be-tradex - copy\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|solutionrelative:data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|c:\\users\\janglee\\desktop\\be-tradex - copy\\data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|solutionrelative:data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|c:\\users\\janglee\\desktop\\be-tradex - copy\\data\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|solutionrelative:data\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|c:\\users\\janglee\\desktop\\be-tradex - copy\\data\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|solutionrelative:data\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|c:\\users\\janglee\\desktop\\be-tradex - copy\\data\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|c:\\users\\janglee\\desktop\\be-tradex - copy\\data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|solutionrelative:data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|c:\\users\\janglee\\desktop\\be-tradex - copy\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAA8FCA6-5E54-445F-9275-FF850701F93D}|Presentation\\Presentation.csproj|c:\\users\\janglee\\desktop\\be-tradex - copy\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BAA8FCA6-5E54-445F-9275-FF850701F93D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|c:\\users\\janglee\\desktop\\be-tradex - copy\\application\\settings\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|c:\\users\\janglee\\desktop\\be-tradex\\application\\settings\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|solutionrelative:application\\settings\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CA8DC57-2D2D-49E3-894E-3EC07C1D770A}|Domain\\Domain.csproj|c:\\users\\janglee\\desktop\\be-tradex - copy\\domain\\entities\\tradexcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|c:\\users\\janglee\\desktop\\be-tradex\\application\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA8DC57-2D2D-49E3-894E-3EC07C1D770A}|Domain\\Domain.csproj|c:\\users\\janglee\\desktop\\be-tradex\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA8DC57-2D2D-49E3-894E-3EC07C1D770A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA8DC57-2D2D-49E3-894E-3EC07C1D770A}|Domain\\Domain.csproj|c:\\users\\janglee\\desktop\\be-tradex\\domain\\models\\authentications\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA8DC57-2D2D-49E3-894E-3EC07C1D770A}|Domain\\Domain.csproj|solutionrelative:domain\\models\\authentications\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA8DC57-2D2D-49E3-894E-3EC07C1D770A}|Domain\\Domain.csproj|c:\\users\\janglee\\desktop\\be-tradex\\domain\\models\\authentications\\certificatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA8DC57-2D2D-49E3-894E-3EC07C1D770A}|Domain\\Domain.csproj|solutionrelative:domain\\models\\authentications\\certificatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|c:\\users\\janglee\\desktop\\be-tradex\\application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|solutionrelative:application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CE8299-5906-4DA4-BE52-79FF5D600D25}|Common\\Common.csproj|c:\\users\\janglee\\desktop\\be-tradex\\common\\errors\\apperrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CE8299-5906-4DA4-BE52-79FF5D600D25}|Common\\Common.csproj|solutionrelative:common\\errors\\apperrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDDC22B2-E423-4899-8AD9-FF98421A1552}|Infrastructure\\Infrastructure.csproj|c:\\users\\janglee\\desktop\\be-tradex\\infrastructure\\configurations\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDDC22B2-E423-4899-8AD9-FF98421A1552}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configurations\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|c:\\users\\janglee\\desktop\\be-tradex\\application\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA8DC57-2D2D-49E3-894E-3EC07C1D770A}|Domain\\Domain.csproj|c:\\users\\janglee\\desktop\\be-tradex\\domain\\models\\authentications\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA8DC57-2D2D-49E3-894E-3EC07C1D770A}|Domain\\Domain.csproj|solutionrelative:domain\\models\\authentications\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA8DC57-2D2D-49E3-894E-3EC07C1D770A}|Domain\\Domain.csproj|c:\\users\\janglee\\desktop\\be-tradex\\domain\\constants\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA8DC57-2D2D-49E3-894E-3EC07C1D770A}|Domain\\Domain.csproj|solutionrelative:domain\\constants\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA8FCA6-5E54-445F-9275-FF850701F93D}|Presentation\\Presentation.csproj|c:\\users\\janglee\\desktop\\be-tradex\\presentation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAA8FCA6-5E54-445F-9275-FF850701F93D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|c:\\users\\janglee\\desktop\\be-tradex\\application\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|solutionrelative:application\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|c:\\users\\janglee\\desktop\\be-tradex\\application\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|solutionrelative:application\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|c:\\users\\janglee\\desktop\\be-tradex\\application\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFFB9AA-0685-4046-A6C8-C01D3AC7433A}|Application\\Application.csproj|solutionrelative:application\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|c:\\users\\janglee\\desktop\\be-tradex\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|solutionrelative:data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|c:\\users\\janglee\\desktop\\be-tradex\\data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|solutionrelative:data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|c:\\users\\janglee\\desktop\\be-tradex\\data\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|solutionrelative:data\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|c:\\users\\janglee\\desktop\\be-tradex\\data\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|solutionrelative:data\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|c:\\users\\janglee\\desktop\\be-tradex\\data\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|solutionrelative:data\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|c:\\users\\janglee\\desktop\\be-tradex\\data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|solutionrelative:data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|c:\\users\\janglee\\desktop\\be-tradex\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC52140A-BEBC-47B6-9033-3A0C253E5C68}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA8FCA6-5E54-445F-9275-FF850701F93D}|Presentation\\Presentation.csproj|c:\\users\\janglee\\desktop\\be-tradex\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BAA8FCA6-5E54-445F-9275-FF850701F93D}|Presentation\\Presentation.csproj|solutionrelative:presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA8DC57-2D2D-49E3-894E-3EC07C1D770A}|Domain\\Domain.csproj|c:\\users\\janglee\\desktop\\be-tradex\\domain\\entities\\tradexcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CA8DC57-2D2D-49E3-894E-3EC07C1D770A}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\tradexcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -94,47 +146,240 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Presentation.http",
-              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Presentation\\Presentation.http",
-              "RelativeDocumentMoniker": "Presentation\\Presentation.http",
-              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Presentation\\Presentation.http",
-              "RelativeToolTip": "Presentation\\Presentation.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-05-15T13:23:41.244Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Presentation\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Presentation\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Presentation\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Presentation\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T13:18:27.531Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AuthViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Domain\\Models\\Authentications\\AuthViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Authentications\\AuthViewModel.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Domain\\Models\\Authentications\\AuthViewModel.cs",
+              "RelativeToolTip": "Domain\\Models\\Authentications\\AuthViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:09:25.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Presentation\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Presentation\\Program.cs",
               "RelativeDocumentMoniker": "Presentation\\Program.cs",
-              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Presentation\\Program.cs",
               "RelativeToolTip": "Presentation\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABYAAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T13:16:21.316Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Application\\Services\\Implementations\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Implementations\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Application\\Services\\Implementations\\AuthService.cs",
+              "RelativeToolTip": "Application\\Services\\Implementations\\AuthService.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAtwFoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:01:58.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthModel.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Domain\\Models\\Authentications\\AuthModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Authentications\\AuthModel.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Domain\\Models\\Authentications\\AuthModel.cs",
+              "RelativeToolTip": "Domain\\Models\\Authentications\\AuthModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:09:48.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Domain\\Models\\Views\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Views\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Domain\\Models\\Views\\UserViewModel.cs",
+              "RelativeToolTip": "Domain\\Models\\Views\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:05:16.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Application\\Settings\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Application\\Settings\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Application\\Settings\\AppSettings.cs",
+              "RelativeToolTip": "Application\\Settings\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:58:48.187Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T14:36:24.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Infrastructure\\Configurations\\AppConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configurations\\AppConfiguration.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Infrastructure\\Configurations\\AppConfiguration.cs",
+              "RelativeToolTip": "Infrastructure\\Configurations\\AppConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:46:18.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Infrastructure\\Configurations\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configurations\\JwtMiddleware.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Infrastructure\\Configurations\\JwtMiddleware.cs",
+              "RelativeToolTip": "Infrastructure\\Configurations\\JwtMiddleware.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAMwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:28:27.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Presentation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Presentation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAmwCsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:24:43.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CertificateModel.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Domain\\Models\\Authentications\\CertificateModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Authentications\\CertificateModel.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Domain\\Models\\Authentications\\CertificateModel.cs",
+              "RelativeToolTip": "Domain\\Models\\Authentications\\CertificateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:10:49.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TokenModel.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Domain\\Models\\Authentications\\TokenModel.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Authentications\\TokenModel.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Domain\\Models\\Authentications\\TokenModel.cs",
+              "RelativeToolTip": "Domain\\Models\\Authentications\\TokenModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:10:55.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppErrors.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Common\\Errors\\AppErrors.cs",
+              "RelativeDocumentMoniker": "Common\\Errors\\AppErrors.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Common\\Errors\\AppErrors.cs",
+              "RelativeToolTip": "Common\\Errors\\AppErrors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:13:02.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA5wBMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:05:21.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Infrastructure\\Configurations\\AuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configurations\\AuthorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Infrastructure\\Configurations\\AuthorizeAttribute.cs",
+              "RelativeToolTip": "Infrastructure\\Configurations\\AuthorizeAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:28:36.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:31:28.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Domain\\Constants\\UserRoles.cs",
+              "RelativeDocumentMoniker": "Domain\\Constants\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Domain\\Constants\\UserRoles.cs",
+              "RelativeToolTip": "Domain\\Constants\\UserRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:07:11.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Application\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Application\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Application\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:01:46.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Presentation\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Presentation\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:18:27.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "BaseService.cs",
-              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Application\\Services\\BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Application\\Services\\BaseService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\BaseService.cs",
-              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Application\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Application\\Services\\BaseService.cs",
               "RelativeToolTip": "Application\\Services\\BaseService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,11 +387,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 19,
               "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Application\\Services\\Implementations\\UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Application\\Services\\Implementations\\UserService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\Implementations\\UserService.cs",
-              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Application\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Application\\Services\\Implementations\\UserService.cs",
               "RelativeToolTip": "Application\\Services\\Implementations\\UserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,11 +399,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 21,
               "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Application\\Services\\Interfaces\\IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Application\\Services\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Application\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Application\\Services\\Interfaces\\IUserService.cs",
               "RelativeToolTip": "Application\\Services\\Interfaces\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -166,11 +411,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 25,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Data\\Repositories\\Implementations\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Data\\Repositories\\Implementations\\UserRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\Implementations\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Data\\Repositories\\Implementations\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Data\\Repositories\\Implementations\\UserRepository.cs",
               "RelativeToolTip": "Data\\Repositories\\Implementations\\UserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -178,11 +423,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Data\\Repositories\\Interfaces\\IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Data\\Repositories\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Data\\Repositories\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Data\\Repositories\\Interfaces\\IUserRepository.cs",
               "RelativeToolTip": "Data\\Repositories\\Interfaces\\IUserRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -190,11 +435,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Data\\UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Data\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Data\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Data\\UnitOfWork.cs",
               "RelativeToolTip": "Data\\UnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -202,36 +447,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Infrastructure\\Configurations\\AppConfiguration.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Configurations\\AppConfiguration.cs",
-              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Infrastructure\\Configurations\\AppConfiguration.cs",
-              "RelativeToolTip": "Infrastructure\\Configurations\\AppConfiguration.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAIBCwCkAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:46:18.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Application\\Mappings\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Application\\Mappings\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Application\\Mappings\\MappingProfile.cs",
-              "RelativeToolTip": "Application\\Mappings\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T13:16:42.096Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Data\\Repositories\\IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Data\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Data\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Data\\Repositories\\IRepository.cs",
               "RelativeToolTip": "Data\\Repositories\\IRepository.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAA3wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -239,11 +459,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Data\\Repositories\\Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Data\\Repositories\\Repository.cs",
               "RelativeDocumentMoniker": "Data\\Repositories\\Repository.cs",
-              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Data\\Repositories\\Repository.cs",
               "RelativeToolTip": "Data\\Repositories\\Repository.cs",
               "ViewState": "AQIAAEkAAAAAAAAAAAAywFsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -251,11 +471,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 28,
               "Title": "Data.csproj",
-              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Data\\Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Data\\Data.csproj",
               "RelativeDocumentMoniker": "Data\\Data.csproj",
-              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Data\\Data.csproj",
               "RelativeToolTip": "Data\\Data.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -263,11 +483,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Data\\IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Data\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Data\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Data\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Data\\IUnitOfWork.cs",
               "RelativeToolTip": "Data\\IUnitOfWork.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -275,11 +495,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "Presentation.csproj",
-              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Presentation\\Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Presentation\\Presentation.csproj",
               "RelativeDocumentMoniker": "Presentation\\Presentation.csproj",
-              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Presentation\\Presentation.csproj",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Presentation\\Presentation.csproj",
               "RelativeToolTip": "Presentation\\Presentation.csproj",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -287,27 +507,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 30,
               "Title": "TradeXContext.cs",
-              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Domain\\Entities\\TradeXContext.cs",
+              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Domain\\Entities\\TradeXContext.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\TradeXContext.cs",
-              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Domain\\Entities\\TradeXContext.cs",
+              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Domain\\Entities\\TradeXContext.cs",
               "RelativeToolTip": "Domain\\Entities\\TradeXContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T13:04:59.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AppSettings.cs",
-              "DocumentMoniker": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Application\\Settings\\AppSettings.cs",
-              "RelativeDocumentMoniker": "Application\\Settings\\AppSettings.cs",
-              "ToolTip": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Application\\Settings\\AppSettings.cs",
-              "RelativeToolTip": "Application\\Settings\\AppSettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T12:58:48.187Z"
             }
           ]
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P7D3R2gipyA=",
+  "dgSpecHash": "OYgWoNeH1VM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Janglee\\Desktop\\BE-TradeX - Copy\\Common\\Common.csproj",
+  "projectFilePath": "C:\\Users\\Janglee\\Desktop\\BE-TradeX\\Common\\Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Janglee\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Janglee\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,6 +1,7 @@
 ﻿using Application.Services.Implementations;
 using Application.Services.Interfaces;
 using Data;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
 
@@ -10,6 +11,7 @@ namespace Infrastructure.Configurations
     {
         public static void AddDependenceInjection(this IServiceCollection services)
         {
+            services.AddScoped<IAuthService, AuthService>();
             services.AddScoped<IUserService, UserService>();
 
             services.AddTransient<IUnitOfWork, UnitOfWork>();
@@ -47,6 +49,11 @@ namespace Infrastructure.Configurations
                       }
                  });
             });
+        }
+
+        public static void UseJwt(this IApplicationBuilder app)
+        {
+            app.UseMiddleware<JwtMiddleware>();
         }
     }
 }

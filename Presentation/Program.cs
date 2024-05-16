@@ -1,4 +1,5 @@
 using Application.Mappings;
+using Application.Settings;
 using Domain.Entities;
 using Infrastructure.Configurations;
 using Microsoft.EntityFrameworkCore;
@@ -10,7 +11,7 @@ var allowSpecificOrigins = "_allowSpecificOrigins";
 var sqlConnectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
 // Add services to the container.
-//builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("AppSettings"));
+builder.Services.Configure<AppSettings>(builder.Configuration.GetSection("AppSettings"));
 builder.Services.AddDbContext<TradeXContext>(options =>
         options.UseSqlServer(sqlConnectionString));
 builder.Services.AddControllers();
@@ -50,6 +51,8 @@ app.UseSwagger();
 app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
+
+app.UseJwt();
 
 app.UseAuthorization();
 
